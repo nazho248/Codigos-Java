@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="Taller_1"/>
+	<classpathentry kind="src" path="Taller_2"/>
+	<classpathentry kind="src" path="Taller_3"/>
+	<classpathentry kind="src" path="taller_4"/>
+	<classpathentry kind="src" path="taller_5"/>
+	<classpathentry kind="src" path="Taller_6"/>
+	<classpathentry kind="src" path="Taller_5Inf"/>
+	<classpathentry kind="src" path="Proyecto_Final"/>
+	<classpathentry kind="src" path="Taller_Estructura_Datos"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
